@@ -1,0 +1,615 @@
+body {
+ 
+    background-color:black;
+    text-align:center;
+    
+  }
+  .myButton {
+    background-color:#cc00ff; /* Green background */
+    border: none; /* No border */
+    color: white; /* White text */
+    padding: 15px 32px; /* Padding */
+    text-align: center; /* Center text */
+    text-decoration: none; /* No underline */
+    display: inline-block; /* Display as inline block */
+    font-size: 16px; /* Font size */
+    margin: 4px 2px; /* Margin */
+    cursor: pointer; /* Cursor pointer */
+    border-radius: 10px; /* Rounded corners */
+}
+
+/* Hover effect */
+.myButton:hover {
+    background-color: #cc00ff; /* Darker green */
+}
+
+/* Specific styles for Register button */
+.registerButton {
+    background-color: #cc00ff; /* Blue background */
+}
+
+/* Specific styles for About Us button */
+.aboutButton {
+    background-color: #cc00ff;/* Red background */
+}
+   form{
+   
+    background-color:black;
+    text-align:center;
+    color:#cc00ff;
+  }
+  h1{
+      display:inline;
+     
+    
+  }
+  h2{
+      color:#cc00ff;
+   font-size: 50px;
+   font-family: 'Press Start 2P', sans-serif;
+  }
+  h3,h4,h5{
+          text-align: center;
+           color:#cc00ff;
+          
+  }
+
+  #ABOUT{
+font-size: 30px;
+
+  }
+  .h3 {
+  
+  border: 1px solid #444;
+    margin: 80px;
+   padding: 80px;
+   background-color:#303030;
+   font-size:20px;
+   }
+  
+  .h4 {
+  border: 1px solid #444;
+    margin: 80px;
+   padding: 80px;
+   background-color:#303030;
+   font-size:25px;
+   }
+  .h5 {
+   
+    border: 1px solid #444;
+    padding: 50px;
+     margin: 80px;
+    background-color:#303030;
+  font-size:30px;
+  }
+  
+  .a{
+      padding:10px;
+      margin-right:20px;
+  }
+      
+  .b{
+      padding:10x;
+      background-color:blue;
+      border-radius:10px;
+      margin-left:20px;
+  }
+ 
+  h6{
+   font-size:200;
+  }
+  .p2{
+   
+    border: 1px solid #444;
+    padding: 100px;
+     margin: 80px;
+    background-color:#303030;
+    font-size:20px;
+  }
+  .li{
+   
+    border: 1px solid #444;
+    padding: 100px;
+     margin: 80px;
+    background-color:#303030;
+    font-size:20px;
+  }
+  .h1 {
+      font-family: Space Grotesk,sans-serif;
+      font-weight: 700;
+      text-shadow: 0 0 10px #09f905, 0 0 20px #31e340;
+      transition:5s ease-out;
+  }
+  h3{
+      color:#cc00ff;
+   font-size: 50;
+   font-family:sans-serif;
+  }
+  p,li{
+      text-align:left;
+      color:#cc00ff;
+  }
+  .ow
+   {
+    
+      border: 1px solid #444;
+      padding: 100px;
+       margin: 80px;
+      background-color:#303030;
+      font-size:20px;
+ 
+  }
+  .ow p{
+    color: #cc00ff;
+    font-size: 20px;
+    text-align: center;
+    
+  }
+  .ow li{
+    text-align: center;
+    font-size: 40px;
+  list-style-type: none;
+  }
+  .coc
+   {
+    
+      border: 1px solid #444;
+      padding: 100px;
+       margin: 80px;
+      background-color:#303030;
+      font-size:20px;
+
+  }
+  .coc p{
+    color: #cc00ff;
+    font-size: 20px;
+    text-align: center;
+    
+  }
+  .coc li{
+    text-align: center;
+    font-size: 40px;
+  list-style-type: none;
+  }
+  .cod
+  {
+   
+     border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .cod p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .cod li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .v
+  {
+   
+     border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .v p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .v li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .mc
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .mc p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .mc li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .q
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .q p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .q li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .ew
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .ew p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .ew li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .reels
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .reels p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .reels li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .selfe
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+ 
+ }
+ .selfe p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .selfe li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .ideathon
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .ideathon p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .ideathon li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .photo
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .photo p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .photo li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .paint
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .paint p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .paint li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .tt
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .tt p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .tt li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .sn
+  {
+   border: 1px solid #444;
+     padding: 100px;
+      margin: 80px;
+     background-color:#303030;
+     font-size:20px;
+
+ }
+ .sn p{
+   color: #cc00ff;
+   font-size: 20px;
+   text-align: center;
+   
+ }
+ .sn li{
+   text-align: center;
+   font-size: 40px;
+ list-style-type: none;
+ }
+ .rjs
+ {
+  border: 1px solid #444;
+    padding: 100px;
+     margin: 80px;
+    background-color:#303030;
+    font-size:20px;
+
+}
+.rjs p{
+  color: #cc00ff;
+  font-size: 20px;
+  text-align: center;
+  
+}
+.rjs li{
+  text-align: center;
+  font-size: 40px;
+list-style-type: none;
+}
+.arvr
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.arvr p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.arvr li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.hack
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.hack p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.hack li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.ctf
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.ctf p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.ctf li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.codechall
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.codechall p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.codechall li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.paper
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.paper p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.paper li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.poster
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.poster p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.poster li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.project
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.project p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.project li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.fic
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.fic p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.fic li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
+.codecamp
+{
+ border: 1px solid #444;
+   padding: 100px;
+    margin: 80px;
+   background-color:#303030;
+   font-size:20px;
+
+}
+.codecamp p{
+ color: #cc00ff;
+ font-size: 20px;
+ text-align: center;
+ 
+}
+.codecamp li{
+ text-align: center;
+ font-size: 40px;
+list-style-type: none;
+}
